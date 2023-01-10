@@ -1,19 +1,11 @@
-# vue-awesome-paginate-test
+### Testing the plugin «Vue Awesome Paginate» ###
 
-## Project setup
-```
-npm install
-```
+## Technologies: ##
+* Vue.js 3.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Environment: ##
+* Node.js 13.14.0;
+* npm 6.14.4;
+* Vue CLI 4.5.9.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### [Demo](https://billizane.github.io/vue-awesome-paginate) ###
